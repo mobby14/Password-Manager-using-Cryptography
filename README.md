@@ -1,4 +1,4 @@
-# Secure Password Manager - Comprehensive Technical Documentation
+# Secure Password Manager 
 
 ## Project Overview
 
